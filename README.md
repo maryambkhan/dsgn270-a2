@@ -3,7 +3,7 @@
 # **Treasure Hunt**
 
 1  
- ![Global_Navigation](images/Capture.png)
+ ![Global_Navigation](images/Capture.PNG)
 
  ![wire_frame](images/wireframe.png)
 
