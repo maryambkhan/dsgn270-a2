@@ -2,13 +2,17 @@
 # **Maryam Khan** 
 # **Treasure Hunt**
 
-1  
+### **adidas**
+
+Link to website:[Adidas]( https://www.adidas.ca/en?cm_mmc=AdiSEM&gclid=CjwKCAiA0KmPBhBqEiwAJqKK496vONNxE7sg9lrRmV0oPa-5m99YChOLzfbm6OLRogInzmvOzqvWKBoCCn8QAvD_BwE&gclsrc=aw.ds)
+
+  
  ![Global_Navigation](images/Capture.PNG)
 
- ![wire_frame](images/wireframe.png)
+ ![Local_Navigation](images/Capture2.PNG)
 
 
- ![wire_frame](images/wireframe.png)
+ ![Breadcrums_navigation](images/Capture3.PNG)
 
 
- ![wire_frame](images/wireframe.png)
+ ![Hamburger_navigation](images/Capture4.PNG)
